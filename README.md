@@ -1,1 +1,1 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peppelongo96&count_private=true&show_icons=true)  fgdgfh
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peppelongo96&count_private=true&show_icons=true)
